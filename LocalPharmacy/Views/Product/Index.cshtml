@@ -1,0 +1,92 @@
+﻿@model IEnumerable<LocalPharmacy.Models.ProductToDisplay>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var tblAmount = $("#lblAmountCAD");
+        var usdAmount = $("#SearchString").val();
+        $('#search').click(function () {
+            $.ajax({
+                type: 'GET',
+                url: 'http://openexchangerates.org/api/latest.json?app_id=f5be7280ae4244069f8ebed97bcdd456',
+                dataType: 'json',
+                success: function (data) {
+                    console.log(data)
+                    $.each(data, function (index, val) {
+                        tblAmount.empty();
+                        var value = val.CAD 
+                        tblAmount.append("<span>" + value * usdAmount + " Canadian Dollar </span>")
+
+                    })
+                }
+            })
+        })
+    })
+
+</script>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p style="margin-bottom:15px;">
+    @Html.ActionLink("Save a new product", "Create")
+</p>
+ 
+@using (Html.BeginForm())
+{      <div>
+           <label for="SearchString" style="margin-bottom:20px;">Type price to purchase product within limit </label>
+    </div>
+       <p>
+           Filter by price: @Html.TextBox("SearchString")
+           <label id="lblAmountCAD"> </label>
+
+           <input id="search" type="submit" value="Search" />
+       </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.product_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.product_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.purchase_prx)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.msr_prx)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.manufacturer)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.purchase_prx)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.msr_prx)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.manufacturer)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id }) 
+            </td>
+        </tr>
+    }
+
+</table>
