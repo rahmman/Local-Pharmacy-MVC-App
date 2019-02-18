@@ -1,0 +1,501 @@
+id,product_id,product_name,purchase_prx,msr_prx,manufacturer
+1,201274908-9,Ammonia,93.19,197.42,Mountain Top Labs LLC
+2,919629883-9,Pancrelipase,58.88,296.61,Atlantic Biologicals Corps
+3,561843350-8,CHROMIC CHLORIDE,29.34,14.45,Hospira Inc.
+4,024547651-2,OCTINOXATE,26.8,73.06,Kosan Kozmetik Sanayi ve Ticaret A.S.
+5,590173735-0,Nitrogen,73.63,287.45,Depke Welding Supplies Inc.
+6,601549549-9,CEFTRIAXONE,62.45,51.2,B. Braun Medical Inc.
+7,630551880-7,perphenazine and amitriptyline hydrochloride,87.81,78.39,Mylan Pharmaceuticals Inc.
+8,990851621-3,BENZOICUM ACIDUM- BERBERIS VULG.- ,55.84,218.72,Newton Laboratories Inc.
+9,285044765-X,Nicotine Polacrilex,98.41,182.5,Dolgencorp LLC
+10,968690882-X,Sweet Vernal Grass- Standardized,91.12,184.68,ALK-Abello Inc.
+11,254144887-2,clopidogrel bisulfate,47.34,146.44,A-S Medication Solutions LLC
+12,504929736-2,bupropion hydrochloride,81.22,62.52,Edgemont Pharmaceuticals LLC
+13,252556339-5,Tea Tree Oil,39.46,48.46,Clear Healthcare LLC
+14,797326450-7,AVOBENZONE- OCTOCRYLENE- OXYBENZONE,9.83,11.4,Energizer Personal Care LLC
+15,059684514-6,Promethazine Hydrochloride and Dextromethorphan Hydrobromide,59.61,91.69,Rebel Distributors Corp
+16,858195377-8,Lactulose,82.91,177.43,Morton Grove Pharmaceuticals Inc.
+17,770222499-1,Baclofen,95.78,201.36,PD-Rx Pharmaceuticals Inc.
+18,846757063-6,Omeprazole,73,195.24,H E B
+19,604178663-2,ALCOHOL,82.46,295.61,Sigan Industries
+20,957030184-8,Benzonatate,44.21,59.3,Rebel Distributors Corp
+21,126139857-2,Titanium Dioxide,80.18,161.33,Bare Escentuals Beauty Inc.
+22,084765798-1,Minocycline Hydrochloride,4.19,60.25,Global Pharmaceuticals Division of Impax Laboratories Inc.
+23,721768000-X,Toothpaste,43.44,122.04,DSC Laboratories Div. of DSC Products Inc.
+24,773793399-9,Chlorpheniramine maleate- Phenylephrine HCl,5.12,277.3,Hannaford Brothers Company
+25,771085094-4,TRICLOSAN,98.86,9.55,SPAI-SONS PHARMACEUTICAL INTERNATIONAL COSMETICS
+26,881920786-9,Leuprolide Acetate,6.75,270.75,TOLMAR Pharmaceuticals Inc.
+27,612173570-8,Benazepril Hydrochloride,92.58,85.84,International Labs Inc.
+28,798057685-3,Trazodone Hydrochloride,56.5,10.2,Aidarex Pharmaceuticals LLC
+29,598113057-1,urea,55.99,133.91,Crown Laboratories
+30,412920237-5,FERROUS SULFATE- DRIED,92.62,50.17,SPIRIT PHARMACEUTICALSLLC
+31,235962267-6,Propranolol Hydrochloride,26.68,59.83,PD-Rx Pharmaceuticals Inc.
+32,439841565-3,Fludarabine Phosphate,99.1,61.52,Teva Parenteral Medicines Inc.
+33,800792466-3,Ofloxacin,92.32,18.44,Physicians Total Care Inc.
+34,435730498-9,Zinc oxide,38.79,253.38,AMI Cosmetic Co.Ltd.
+35,567283901-0,Octinoxate and Oxybenzone,61.67,290.75,Ventura International LTD.
+36,895411207-2,Naphazoline Hydrochloride,33.15,156.68,Insight Pharmaceuticals
+37,647869244-2,Dextroamphetamine Saccharate- Amphetamine Aspartate- Dextroamphetamine Sulfate and Amphetamine Sulfate,27.82,54.28,Global Pharmaceuticals Division of Impax Laboratories Inc.
+38,255902119-6,Acetaminophen,14.76,47.73,Bristol-Myers Squibb de Mexico S. de R.L. de C.V.
+39,774286878-4,Naproxen sodium,39.85,249.35,Kroger Company
+40,597224933-2,Allscale,81.05,212.37,Nelco Laboratories Inc.
+41,379536598-8,Camphor Menthol Menthyl Salicylate,67.36,196.43,United Exchange Corp.
+42,808828882-7,Adrenal- Angelica Atropurpurea- Boricum Acidum- ATP,95.15,151.51,ABCO Laboratories Inc.
+43,136615699-4,Titanium Dioxide- Zinc Oxide,93.58,36.87,NATURE REPUBLIC CO. LTD.
+44,398162313-4,Clemastine Fumarate,18.85,178.49,Northwind Pharmaceuticals LLC
+45,844304179-X,Pseudoephedrine HCl,92.11,246.68,Wal-Mart Stores Inc
+46,546680129-1,White Petrolatum,43.58,176.63,Supervalu Inc
+47,231960210-0,Camphor,99.52,176.53,ShopKo Stores Operating Co. LLC
+48,646757402-8,Hydrocodone Bitartrate and Acetaminophen,52.86,197.06,Boca Pharmacal LLC
+49,510113151-2,voriconazole,32.91,173.07,Roerig
+50,315168715-6,spironolactone,66.38,140.19,Bryant Ranch Prepack
+51,186723787-3,Acetaminophen,89.91,74.19,Kroger Company
+52,375577392-9,benzocaine and benzethonium chloride,37.84,150.53,Combe Incorporated
+53,191263791-X,ALCOHOL,31.39,238.68,Buck Head Products & Systems
+54,073991712-9,Benzocaine- benzalkonium chloride,35.44,217.6,Personal Care Products
+55,116634806-7,Oxaliplatin,24.57,170.08,Teva Parenteral Medicines Inc.
+56,946483303-3,Hydrocodone Bitartrate and Acetaminophen,34.17,111.28,Medsource Pharmaceuticals
+57,003371253-0,Echinacea- Hydrastis Canadensis- Lomatium Dissectum- Myrrha- ,27.74,144.41,BioActive Nutritional Inc.
+58,063487668-6,Cefdinir,5.83,126.7,Aurobindo Pharma Limited
+59,328309225-7,Metformin Hydrochloride,21.41,22.74,MARKSANS PHARMA LIMITED
+60,126435368-5,Levothyroxine sodium,4.37,214.21,REMEDYREPACK INC.
+61,817458238-X,BENZOYL PEROXIDE,6.56,20.52,Acella Pharmaceuticals LLC
+62,182240750-8,Capsaicin and Menthol,88.23,255.93,Health Care Products
+63,182498040-X,PREGABALIN,32.29,66.73,Aphena Pharma Solutions - Tennessee LLC
+64,473379207-7,Lisinopril,59.41,148.55,ReadyMeds
+65,274266941-8,AVOBENZONE- HOMOSALATE- OCTISALATE- OCTOCRYLENE- OCTINOXATE,0.19,8.37,Bottega di Lungavita Srl
+66,499077847-2,Aluminum Zirconium Tetrachlorohydrex Gly,34.12,64.21,Idelle Labs Ltd
+67,506125591-7,diltiazem hydrochloride,9.26,83.68,Valeant Pharmaceuticals North America LLC
+68,062597516-2,Gentiana Lutea- Sambucus Nigra- Senna- Stomach (bovine)- Arsenicum Album- Atropinum Sulphuricum- Carbo Vegetabilis,35.92,29.71,Synergy Formulas
+69,930886878-X,ETHYL ALCOHOL,0.76,84.57,Nantong Health & Beyond Hygienic Products Inc.
+70,325734914-9,TITANIUM DIOXIDE- ZINC OXIDE- OCTINOXATE- AMILOXATE- ARBUTIN- ADENOSINE,36.71,4.94,WIZCOZ CORPORATION LTD
+71,574867972-8,tolterodine tartrate,24.14,142.07,Greenstone LLC
+72,511122222-7,ARNICA MONTANA,42.09,156.32,Washington Homeopathic Products
+73,753735436-7,Chlorpheniramine Maleate- Dextromethorphan Hydrobromide- Phenylephrine Hydrochloride,61.45,263.22,Portal Pharmaceutical
+74,858773713-9,Morphine Sulfate,78.91,252.3,Cantrell Drug Company
+75,172897603-0,Titanium Dioxide- Zinc Oxide- and Octinoxate,1.57,297.71,Ventura International LTD.
+76,084177598-2,Potassium Chloride,81.47,119.11,Par Pharmaceutical Inc.
+77,294833660-0,balanced salt solution,0.3,94.02,Alcon Laboratories Inc.
+78,902796162-X,Guaifenesin and Pseudoephedrine HCl,91.94,86.66,Poly Pharmaceuticals Inc.
+79,756333786-5,Melaleuca Pollen,95.27,132.97,Nelco Laboratories Inc.
+80,803040277-5,Alcohol,0.33,175.61,Kay Chemical Company
+81,486681537-X,Snail Secretion Filtrate Titanium Dioxide Zinc Oxide Arbutin Adenosine,24.25,229.31,WIZCOZ CORPORATION LTD
+82,922387830-6,Levofloxacin,77.61,296.52,Preferred Pharmaceuticals Inc.
+83,394051371-7,Heal Grief,44,187.05,Apotheca Company
+84,869358658-0,Triclosan,36.52,265.52,Medline Industries Inc.
+85,232190058-X,Montelukast,34.3,185.22,Clinical Solutions Wholesale
+86,146015999-3,LIDOCAINE HYDROCHLORIDE,24.43,67.1,WESTERN FAMILY FOODS INC.
+87,486238876-0,CHLORHEXIDINE GLUCONATE and HYDROGEN PEROXIDE,90.67,17.15,Sage Products LLC
+88,415393478-X,Benzalkonium chloride,33.25,209.87,CVS Pharmacy
+89,279698312-9,acetaminophen and codeine phosphate,56.96,185.06,Dispensing Solutions Inc.
+90,347909510-0,Octinoxate and Oxybenzone,56.59,218.09,Ventura Corporation LTD.
+91,949151677-9,Felodipine,90.33,22.32,Mylan Pharmaceuticals Inc.
+92,980725539-2,hydrocodone bitartrate and acetaminophen,91.11,20.16,Apotheca Inc
+93,914149758-9,Baclofen,71.21,268.37,REMEDYREPACK INC.
+94,893237231-4,MENTHOL,21.6,235.19,Ricola USA Inc.
+95,902465053-4,DEXTROSE MONOHYDRATE- SODIUM CHLORIDE- and POTASSIUM CHLORIDE,23.71,71.56,Hospira Inc.
+96,801413368-4,Guaifenesin,98.76,229.65,Gadal Laboratories Inc
+97,005470100-7,oxymorphone hydrochloride,4.19,295.6,Endo Pharmaceuticals Inc.
+98,955589076-5,Paroxetine,72.1,286.18,Clinical Solutions Wholesale
+99,751659055-X,Enoxaparin Sodium,86.64,152.11,Cardinal Health
+100,564813824-5,Alternaria tenuis,0.84,123.42,Jubilant HollisterStier LLC
+101,818058047-4,OCTINOXATE and TITANIUM DIOXIDE,69.04,175.05,MAKEUP ART COSMETICS
+102,270005942-5,Promethazine Hydrochloride,45.87,229.8,Global Pharmaceuticals Division of Impax Laboratories Inc.
+103,116115797-2,Muscle and Joint Roll-On,37.89,283.41,The Mentholatum Company
+104,951383987-7,Aspirin,76.85,13.96,Geri Care Pharmaceutical
+105,318398623-X,Fosinopril Sodium,81.48,81.41,Camber Pharmceuticals Inc.
+106,450241218-X,Titanium Dioxide,0.23,164.31,TONYMOLY CO. LTD.
+107,759952671-4,pneumococcal vaccine polyvalent,27.36,249.79,Merck Sharp & Dohme Corp.
+108,841377463-2,Isoniazid,71.17,237.01,Sandoz Inc
+109,801654569-6,Nicotine Polacrilex,73.36,44.25,Amerisource Bergen
+110,203536230-X,Levofloxacin,28.55,93.63,Dr. Reddys Laboratories Limited
+111,474647855-4,Octinoxate and Oxybenzone,22.41,271.78,Ventura International LTD.
+112,837111680-2,acyclovir,76.65,90.55,Mylan Pharmaceuticals Inc.
+113,408233486-6,Cochlearia armoracia- Taraxacum officinale- Tabebuia impetiginosa-,28.01,23.28,The Wellness Center for Research and Education
+114,791653504-1,Sisal,98.44,36.93,Nelco Laboratories Inc.
+115,263067496-7,TITANIUM DIOXIDE and OCTINOXATE,82.44,253.86,KANEBO COSMETICS INC
+116,261452788-2,ATORVASTATIN CALCIUM,80.82,96.62,Bryant Ranch Prepack
+117,426398384-X,Hydroquinone,47.25,239.04,Taro Pharmaceuticals U.S.A. Inc.
+118,825644964-0,Olanzapine,81.25,204.73,Dr.Reddys laboratories Ltd.
+119,844060329-0,Dextromethorphan Hydrobromide- Guaifenesin,90.49,23.71,L Perrigo Company
+120,690355739-3,Methocarbamol,77.61,156.53,A-S Medication Solutions LLC
+121,875102808-5,DEXTROSE- SODIUM CHLORIDE- and POTASSIUM CHLORIDE,74.61,223.84,B. Braun Medical Inc.
+122,607086703-3,FLUOROURACIL,87.03,240.49,Fresenius Kabi USA LLC
+123,053376051-8,Fluoride,85.25,58.94,TOPCO Assoc. LLC
+124,365523418-X,lamivudine,81.2,143.59,ViiV Healthcare Company
+125,419652710-8,Methyl Salicylate- Menthol and Capsaicin,45.63,119.07,Unit Dose Services
+126,035398098-6,Alendronate Sodium,92.36,277.17,Apotex Corp.
+127,181773006-1,benzoyl peroxide,49.66,8.2,Physicians Total Care Inc.
+128,688315819-7,Benzalkonium chloride,33.82,15.11,safeHands LLC
+129,942513465-0,CIPROFLOXACIN HYDROCHLORIDE,53.28,1.74,REMEDYREPACK INC.
+130,564456940-3,Mirtazapine,96.53,278.99,Citron Pharma LLC
+131,129883978-5,polyethylene glycol (3350),5.42,125.58,CRH Medical Corporation
+132,125471909-1,piroxicam,22.4,7.34,Pfizer Laboratories Div Pfizer Inc
+133,339528706-8,Calendula officinalis,68.93,177.6,Robin Logan Consulting
+134,559153747-2,Apis 30c- Aurum Nat Mur 30c- Calc Fluor 30c- Nat Sulph 30c- Palladium 30c- Silicea 30c- Sabal 30c- Thuja 30c- Ustillago 30c,82.91,199.74,Home Sweet Homeopathics
+135,283561606-3,mupirocin calcium,48.88,124.41,Cardinal Health
+136,318040532-5,OCTINOXATE,62.28,230.45,Zenith Medicosm SL
+137,337727849-4,Furosemide,65.47,5.75,NCS HealthCare of KY Inc dba Vangard Labs
+138,625818978-4,fluticasone propionate and salmeterol,0.09,47.76,Rebel Distributors Corp
+139,837811027-3,XYLITOL,82.07,234.17,Hankuk Bowonbio Co. Ltd
+140,024225105-6,Pulsatilla Vulgaris- Euphorbia Resinifera Resin- Calcium Sulfate and Oyster Shell Calcium Carbonate- Crude,56.84,29.83,Clear Products Inc.
+141,670924750-3,Avobenzone- Octisalate and Octocrylene,20.59,130.45,LOreal USA Products Inc
+142,575695402-3,Levofloxacin,89.4,46.82,PD-Rx Pharmaceuticals Inc.
+143,371287627-0,Carelessweed,93.1,211.17,Nelco Laboratories Inc.
+144,328811318-X,diphenoxylate hydrochloride and atropine sulfate,59.19,5.2,Dispensing Solutions Inc.
+145,456585372-8,Sodium Fluoride,65.06,104.64,Crosstex International Inc.
+146,353687105-4,Lorazepam,80.42,207.59,Actavis Elizabeth LLC
+147,026788907-0,Pyrithione Zinc,2.67,177.7,Procter & Gamble Manufacturing Co.
+148,039074108-6,Aluminum Zirconium Tetrachlorohydrex Gly,88.25,152.53,Idelle Labs Ltd
+149,842396001-3,famotidine- calcium carbonate and magnesium hydroxide,79.97,132.33,Kmart Corporation
+150,456214137-9,Neomycin Sulfate- Polymyxin B Sulfate- and Pramoxine Hydrochloride,96.47,27.35,Phoenix Global Supply Group Inc.
+151,393340806-7,Salicylic Acid,79.01,159.93,Perrigo New York Inc
+152,460744548-7,Insulin human,63.82,177.71,Eli Lilly and Company
+153,102049962-1,TROSPIUM CHLORIDE,23.72,123.79,Golden State Medical Supply Inc.
+154,096406950-4,nitroglycerin,15.1,191.36,Alvogen Inc.
+155,093026861-X,Terazosin Hydrochloride,19.03,209.96,Aphena Pharma Solutions - Tennessee LLC
+156,639711725-1,Ondansetron Hydrochloride,69.65,233.83,Aurobindo Pharma Limited
+157,812153536-0,BENZALKONIUM CHLORIDE,99.82,291.89,Alex C. Fergusson Inc.
+158,296342426-4,Aqua Foundation,96.36,135.98,Koh Gen Do USA Inc
+159,505542830-9,Octinoxate- Octisalate- and Titanium Dioxide,59.78,264.35,The Body Shop Wake Forest
+160,347896556-X,MICONAZOLE NITRATE,21.85,254.77,Summers Laboratories Inc
+161,688126012-1,Ranitidine,9.34,141.04,Shasun Pharmaceuticals Limited
+162,859307138-4,Avobenzone- Homosalate- Octinoxate - Octisalate - Octocrylene - Oxybenzone,64.08,227,Fischer Pharmaceuticals Ltd
+163,614275085-4,Atomoxetine Hydrochloride,25.65,157.41,Sun Pharma Global FZE
+164,156629193-3,Benzoyl Peroxide Wash,8.43,249.79,PruGen Inc.
+165,795642612-X,idarubicin hydrochloride,93.37,86.77,Teva Parenteral Medicines Inc
+166,174086653-3,NAFCILLIN SODIUM,93.43,70.43,Teva Parenteral Medicines Inc.
+167,187653077-4,Anthracinum- Pyrogenium- Aconitum nap.- Aloe- Apis mel.- Arnica- Arsenicum alb.- Baptisia- Belladonna- ,12.62,258.32,Newton Laboratories Inc.
+168,958105262-3,Silver Sulfadiazine,42.22,268.04,Preferred Pharmaceuticals Inc.
+169,849419109-8,Natural Medicine,26.44,188.36,King Bio Inc.
+170,146809537-4,Aconitum Napellus- Allium Cepa- Eupatorium Perfoliatum- Ferrum Phosphoricum- ,31.82,251.26,Energique Inc.
+171,594624884-7,Dicyclomine Hydrochloride,9.24,71.65,REMEDYREPACK INC.
+172,175348843-5,Diclofenac Sodium,23.65,105.5,Global Pharmaceuticals Division of Impax Laboratories Inc.
+173,888085358-9,Ibuprofen,26.38,65.44,REMEDYREPACK INC.
+174,728335846-3,risperidone,73.03,102.75,State of Florida DOH Central Pharmacy
+175,010597051-4,SODIUM MONOFLUOROPHOSPHATE,37.2,268.62,Mission Hills S.A de C.V
+176,966603364-X,DOCUSATE SODIUM- SENNOSIDES,43.29,247.85,McKesson
+177,472818313-0,Octinoxate- Titanium Dioxide,97.07,214.35,Merle Norman Cosmetics Inc.
+178,265520534-0,Guaifenesin,92.27,192.33,L Perrigo Company
+179,135450226-4,TOPIRAMATE,98.79,56.14,STAT Rx USA LLC
+180,473168712-8,First aid and Burn,42.9,250.42,B8 Sales Inc.
+181,297877813-X,Benzocaine,12.61,8.67,Beutlich LP Pharmaceuticals
+182,170056355-6,Brussels Sprout,10.92,93.74,Nelco Laboratories Inc.
+183,397807172-X,DIMETHICONE,89.16,127.05,CVS Pharmacy
+184,218968071-9,Aluminum Zirconium Tetrachlorohydrex,67.74,76.48,VVF Illinois Services LLC
+185,122760675-3,Treatment Set TS333374,2.85,4.74,Antigen Laboratories Inc.
+186,748926375-1,Diphenhydramine HCl,29.88,89.5,Stephen L. LaFrance Pharmacy Inc.
+187,846817533-1,Octinoxate- Octisalate- Titanium Dioxide- Zinc Oxide,99.15,176.31,Goodier Cosmetics LP
+188,970417522-1,Alcohol,68.34,55.23,Betco Corporation Ltd.
+189,274702980-8,Pyrithione Zinc,70.42,44.08,Procter & Gamble Manufacturing Co.
+190,059650582-5,Acetaminophen- Dextromethorphan Hydrobromide- and Phenylephrine Hydrochloride,65.55,176.53,Productos Zapotol Corp.
+191,759413081-2,bromocriptine mesylate,61.98,289.28,Physicians Total Care Inc.
+192,626077781-7,Aluminum Zirconium Tetrachlorohydrex GLY,98.94,40.23,Conopco Inc. d/b/a Unilever
+193,844843788-8,Loratadine,80.31,122.55,Premier Value
+194,558549439-2,Aspergillus niger,26.83,93.9,Nelco Laboratories Inc.
+195,237718836-2,Simethicone,66.01,60.51,Humanwell PuraCap Pharmaceutical (Wuhan) Ltd.
+196,689560442-1,benztropine mesylate,87.44,158.51,Qualitest Pharmaceuticals
+197,801278410-6,Lorazepam,41.94,213.69,Northwind Pharmaceuticals
+198,363128480-2,Oxacillin,71.41,201.67,Sandoz Inc
+199,377832270-2,RIFAMPIN,93.04,103.02,Pfizer Laboratories Div Pfizer Inc
+200,389806920-6,Undecylenic acid- Triclosan,93.3,2.24,ALL NATURAL DYNAMICS
+201,032873108-0,OCTINOXATE,37.61,111.84,MAKEUP ART COSMETICS
+202,619163716-0,atorvastatin calcium,89.95,26.01,Rebel Distributors Corp
+203,319434656-3,Clopidogrel bisulfate,11.69,56.77,REMEDYREPACK INC.
+204,579295619-7,Dextromethorphan HBr- Guaifenesin,74.77,123.13,Walgreen Company
+205,187454077-2,Octinoxate,52.69,138.94,Elizabeth Arden Inc
+206,639239475-3,Ammonia Inhalants,30.84,134.28,James Alexander Corporation
+207,554012279-8,loperamide hydrochloride,93.14,251.47,Mylan Institutional Inc.
+208,912867453-7,Aspirin,70.32,60.76,Amerisource Bergen
+209,647824421-0,Triamcinolone Acetonide,32.48,118.42,Taro Pharmaceuticals U.S.A. Inc.
+210,947385158-8,Acacia,45.97,123.09,Nelco Laboratories Inc.
+211,175940259-1,HUMAN IMMUNOGLOBULIN G,10.93,257.29,Biotest Pharmaceuticals Corporation
+212,967918007-7,QUININE SULFATE,35.48,178.51,STAT RX USA LLC
+213,566760030-7,Ascorbic Acid- Cholecalciferol- .Alpha.-Tocopherol- Pyridoxine- Folic Acid- Biotin- Calcium- Iron- Docusate Calcium,40.7,92.89,Upsher-Smith Laboratories Inc.
+214,275961896-X,risperidone,13.37,28.5,Cardinal Health
+215,543489642-4,Divalproex Sodium,90.59,267.95,AbbVie Inc.
+216,957670739-0,Avobenzone- Homosalate- Octisalate- Octocrylene and Oxybenzone,51.57,246.77,LOreal USA Products Inc
+217,564642698-7,ASPERGILLUS NIGER,57.64,50.72,ALK-Abello Inc.
+218,347102884-6,fluconazole,93.07,82.69,Roerig
+219,513959213-4,phenylephrine hcl- brompheniramine maleate,85.86,166.3,McKesson
+220,106139158-2,Ceftriaxone Sodium,1.75,252.79,Cardinal Health
+221,058538445-2,IRBESARTAN,51.07,182.95,Apotex Corp.
+222,075412766-4,DOCUSATE SODIUM,21.56,222.3,SPIRIT PHARMACEUTICALSLLC
+223,671813339-6,HELMINTHOSPORIUM SOROKINIANUM,47.77,23.5,ALK-Abello Inc.
+224,296343941-5,Methylprednisolone Acetate,79.89,180.15,Teva Parenteral Medicines Inc.
+225,605416776-6,Chlorpheniramine maleate- Phenylephrine HCl,81.8,246.09,WOONSOCKET PRESCRIPTION CENTERINCORPORATED
+226,998991964-X,CYCLAMEN EUROPAEUM,59.79,123.92,HOMEOLAB USA INC.
+227,655054749-0,Alcohol,59.27,204.52,Jiangxi Sencen Hygienic Products Co. Ltd.
+228,289992156-8,Diphenhydramine HCl,64.05,202.37,MEIJER INC.
+229,484790876-7,ERTACZO,86.33,212.68,Rebel Distributors Corp.
+230,207048700-8,MINOCYCLINE HYDROCHLORIDE,2.15,104.42,Direct Rx
+231,365760878-8,Isopropyl alcohol and iodine,48.82,289.3,CareFusion 213 LLC
+232,690024806-3,Bacitracin Zinc,16.73,23.91,Valu Merchandisers Co.
+233,177735082-4,Acetaminophen- Aspirin and caffeine,40.88,175.05,WOONSOCKET PRESCRIPTION CENTERINCORPORATED
+234,196876266-3,tbo-filgrastim,74.75,14.33,Cephalon Inc.
+235,453992009-X,Metformin Hydrochloride,28.08,223.42,Apotex Corp.
+236,683446136-1,Diclofenac Sodium,11.27,262.13,American Health Packaging
+237,556946977-X,Testosterone Cypionate,7.91,150.32,Sandoz Inc
+238,716487591-X,ciprofloxacin,4.14,121.8,Legacy Pharmaceutical Packaging
+239,531677361-6,Melaleuca Alternifolia,41.75,126.67,Integria Healthcare US Inc.
+240,846828929-9,PROPYLENE GLYCOL,81.53,146.57,Handock Cosmetics Inc
+241,998788462-8,CETYLPYRIDINIUM CHLORIDE,28.32,272.34,Vi-Jon
+242,360614761-9,Divalproex Sodium,95,14.85,NCS HealthCare of KY Inc dba Vangard Labs
+243,726213119-2,MORPHINE SULFATE and NALTREXONE HYDROCHLORIDE,33.19,153.74,Pfizer Laboratories Div Pfizer Inc
+244,086712715-5,Salicylic Acid- Sulfur- and Coal Tar,77.32,278.06,Stratus Pharamceuticals Inc
+245,295119047-6,Haloperidol,67.59,299.8,Major Pharmaceuticals
+246,565348804-6,Alcohol,62.99,206.04,Greenbrier International
+247,705549232-7,Alcohol,84.69,261.96,Bath & Body Works Inc.
+248,184918470-4,Molds - Trichophyton Mix,40.32,91.75,Jubilant HollisterStier LLC
+249,592867149-0,sodium fluoride,80.7,2.89,Chattem Inc.
+250,827010275-X,Meteoric Iron Phosphorus Quartz,22.61,88.62,Uriel Pharmacy Inc.
+251,077109110-9,Fexofenadine HCl,51.73,53.2,McKesson
+252,201148840-0,fluticasone furoate,53.55,213.55,Lake Erie Medical & Surgical Supply DBA 
+253,693616885-X,Gabapentin,57.83,57.65,Pharmaceutica North America Inc.
+254,662638338-8,ACETAMINOPHEN- DEXTROMETHORPHAN HYDROBROMIDE- PHENYLEPHRINE HYDROCHLORIDE,13.87,60.23,Universal Holdings I LLC
+255,099178597-5,Glipizide,88.79,205.63,Unit Dose Services
+256,998130884-6,Rifampin,85.14,136.59,Physicians Total Care Inc.
+257,872130106-9,German Cockroach,55.74,6.26,Nelco Laboratories Inc.
+258,192658900-9,Dextromethorphan,31,299.14,Reckitt Benckiser LLC
+259,973892046-9,Methocarbamol,87.49,44.48,Clinical Solutions Wholesale
+260,649805571-5,amlodipine besylate and olmesartan medoxomil,96.13,31.07,Physicians Total Care Inc.
+261,569278523-4,diphenhydramine citrate- ibuprofen,95.23,13.34,Wal-Mart Stores Inc
+262,564598122-7,Ciprofloxacin,24.72,0.36,Actavis Pharma Inc.
+263,627809994-2,metoclopramide hydrochloride,49.98,256.57,UCB Inc.
+264,311523223-3,LIDOCAINE HCL,5.97,238.75,Publix Super Markets Inc
+265,997025739-0,Amoxicillin and Clavulanate Potassium,73.75,268.75,Teva Pharmaceuticals USA Inc
+266,218016850-0,Pyrithione Zinc,56.58,112.1,Procter & Gamble Manufacturing Co.
+267,007113422-0,Miconazole nitrate,24.88,106.66,Western Family Foods Inc
+268,248736856-X,Carboxymethylcellulose sodium,21.48,103.81,PROMED EXPORTS PRIVATE LIMITED
+269,353792435-6,Aspergillus fumigatus,97.68,207.43,Jubilant HollisterStier LLC
+270,998339540-1,Mygale- Agaricus musc.- Causticum- Cinchona- Conium- Cuprum met.- Gelsemium- Hyoscyamus- Hypericum- ,87.61,102.81,Newton Laboratories Inc.
+271,061649477-7,Stannous Fluoride,60.83,39.66,Mycone Dental Supply Co. 
+272,479397036-2,Minoxidil,46.77,70.54,L. Perrigo Company
+273,822497462-6,idarubicin hydrochloride,11.75,171.49,Pharmacia and Upjohn Company
+274,928149384-5,House Dust,3.83,11.91,Nelco Laboratories Inc.
+275,711242879-3,hydrocortisone,29.94,21.93,Duane Reade
+276,308242886-X,Calcium Acetate,69.02,6.8,Camber Pharmaceuticals Inc.
+277,280553049-7,OCTINOXATE- OCTISALATE- ZINC OXIDE,37.26,239.32,Kiss My Face Corp.
+278,722868352-8,Cetirizine Hydrochloride,91.83,98.04,Access Business Group LLC
+279,126268513-3,Undecylenic Acid,72.61,116.56,Efficient Laboratories Inc
+280,747437389-0,Alcohol,18.34,283.07,Hanover Pen Corp dba HPC Global
+281,749313805-2,Naproxen sodium,53.34,94.56,Wal-Mart Stores Inc
+282,721848999-0,metronidazole,22.35,239.41,Dermik Laboratories
+283,700385246-2,Miconazole nitrate,8.83,68.04,Western Family Foods Inc
+284,618534253-7,Echinacea purpurea- Centella asiatica- and Sambucus nigra flowering top,13.04,219.9,Ducere Pharma
+285,325121819-0,Lidocaine Hydrochloride,8.08,265.96,AuroMedics Pharma LLC
+286,366686234-9,PREGABALIN,64.54,90.39,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+287,113542370-9,Influenzinum- Tellurium metallicum- Apis mel- Arsenicum alb.- Belladonna- Bryonia- Capsicum- ,57.55,234.98,Newton Laboratories Inc.
+288,736415353-5,Triclosan,12.77,142.4,Bath & Body Works Inc.
+289,491417701-3,Acetaminophen- Dextromethorphan HBr- Guaifenesin- Phenylephrine HCl,77.36,159.92,Western Family Foods Inc
+290,265637887-7,onion,18.57,85.07,Allergy Laboratories Inc.
+291,212648637-0,carbidopa and levodopa,62.14,225.12,Merck Sharp & Dohme Corp.
+292,336857845-6,Avobenzone- Homosalate- Octisalate- Octocrylene,8.68,267.6,Emilia Personal Care Inc.
+293,188605954-3,oxymetazoline hydrochloride,8.55,174.95,McKesson
+294,236825743-8,Telmisartan and Amlodipine,24.46,230.08,Lupin Pharmaceuticals Inc.
+295,227560877-X,Treatment Set TS351313,41.63,182.33,Antigen Laboratories Inc.
+296,746832922-2,METFORMIN HYDROCHLORIDE,23.96,83.26,State of Florida DOH Central Pharmacy
+297,365957463-5,Loperamide HCl,13.83,157.42,Meijer Distribution Inc
+298,881082129-7,Oxycodone and Acetaminophen,9.18,9.1,Aurolife Pharma LLC
+299,347269241-3,Ethyl Alcohol,61.63,50.15,Tri-Coastal Design Company Inc.
+300,640918910-9,Hydroquinone,14.45,87.83,Innocutis
+301,487382061-8,Horseradish,48.26,69.45,Nelco Laboratories Inc.
+302,746359485-8,Gum- Sweet Liquidambar styraciflua,49.66,128.85,Jubilant HollisterStier LLC
+303,095945088-2,HYDROXYUREA,94.69,116.98,E.R. Squibb & Sons L.L.C.
+304,156670741-2,Acetaminophen,73.32,137.85,"Toys""R""Us Inc."
+305,374842704-2,sodium phosphate- dibasic and sodium phosphate- monobasic,84.23,168.58,C.B. Fleet Company Inc.
+306,636496934-8,Medi-First,72.09,200.11,Medique Products
+307,457254395-X,verapamil hydrochloride,96.4,179.67,Mylan Pharmaceuticals Inc.
+308,525095861-3,English Walnut,66.66,121.64,Nelco Laboratories Inc.
+309,677410019-8,methylphenidate hydrochloride,77.93,38.09,Kremers Urban Pharmaceuticals Inc.
+310,958479194-X,Loxapine,75.87,198.13,American Health Packaging
+311,710064471-2,mercaptopurine,57.68,118.49,Par Pharmaceutical Companies Inc.
+312,675339382-X,chlorthalidone,62.78,195.71,Mylan Institutional Inc.
+313,235933852-8,Labetalol HCl,32.24,41.44,BluePoint Laboratories
+314,547490561-0,Avobenzone- Homosalate- Octisalate- Octocrylene- and Oxybenzone,65.17,240.12,Neutrogena Corporation
+315,747051671-9,CLADOSPORIUM SPHAEROSPERMUM,90.03,22.2,ALK-Abello Inc.
+316,814749552-8,fentanyl citrate,75.29,54.26,Galena Biopharma Inc.
+317,473823361-0,ASPERGILLUS NIGER VAR. NIGER,16.51,163.22,Syntrion GmbH
+318,890175449-5,ARTICAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE,80.27,152.05,Hospira Inc.
+319,804712424-2,Titanium Dioxide- Zinc Oxide,19.66,50.06,Physicians Formula Inc
+320,580477878-1,Titanium dioxide and Zinc Oxide,53.89,98.98,Johnson & Johnson 
+321,044760704-9,ISOSORBIDE MONONITRATE,24.35,272.47,St Marys Medical Park Pharmacy
+322,979570830-9,aluminum hydroxide- magnesium hydroxide- dimethicone,86.55,28.35,McKesson
+323,555955094-9,SODIUM FLUORIDE,39.21,58.66,FSi Inc.
+324,455221691-0,MENTHOL,94.01,155.45,Ricola Ag
+325,861964390-8,Octinoxate- Oxybenzone- and Titanium Dioxide,60.51,122.06,Ventura Corporation (San Juan P.R)
+326,642308900-0,Lidocaine Hydrochloride,64.52,249.47,General Injectables & Vaccines Inc
+327,809377915-9,ALCOHOL,51.58,219.95,Goldessence Limited
+328,797835044-4,Cuprum Stannum,93.21,276.88,Uriel Pharmacy Inc.
+329,934525018-2,Labetalol Hydrochloride,62.5,126.08,Gland Pharma Limited
+330,890012030-1,Hand Soap,81.98,169.27,Cintas Corp.
+331,988524920-6,Bacitracin Zinc,52.37,175.43,Cardinal Health
+332,720373216-9,urtica dioica pollen,92.49,79.26,Allergy Laboratories Inc.
+333,525540886-7,Indomethacin,14.72,223.92,Clinical Solutions Wholesale
+334,151554126-6,Metronidazole,84.51,213.43,G.D. Searle LLC Division of Pfizer Inc
+335,789825364-7,Carbidopa- Levodopa- and Entacapone,94.27,143.9,Sandoz Inc
+336,033409531-X,rizatriptan benzoate,57.8,2.77,Mylan Pharmaceuticals Inc.
+337,938338190-6,sulfur-salicylic acid,1.82,289.69,Malin and Goetz Inc
+338,122654760-5,Metoclopramide,88.16,108.74,Teva Parenteral Medicines Inc.
+339,848276795-X,Minocycline Hydrochloride,65.34,123.34,Cardinal Health
+340,664114583-2,TRICLOSAN,64.19,232.91,Greenbrier International Inc.
+341,407567764-8,Dextromethorphan HBr- Guaifenesin,28.8,264.64,Major Pharmaceuticals
+342,053372741-3,TRICLOSAN,53.67,225.56,Volume Distributors Inc.
+343,443781250-6,SODIUM MONOFLUOROPHOSPHATE,29.36,107.69,Dr. Fresh Inc.
+344,659537868-X,ANTIPYRINE AND BENZOCAINE,77.01,192,Preferred Pharmaceuticals Inc.
+345,065469245-9,OCTINOXATE- OCTOCRYLENE- OCTISALATE- and OXYBENZONE,3.48,234.3,GANZ U.S.A. LLC
+346,246249730-7,Avobenzone and Homosalate and Octisalate and Octocrylene and Oxybenzone,8.58,110.24,Chattem Inc.
+347,457768377-6,Aconitum nap- Arnica- Bellis- Calendula- Echinacea- Gelsemium- Hamamelis- Hypericum- Ledum,9.85,12.76,Newton Laboratories Inc.
+348,393876040-0,Promethazine Hydrochloride,93.38,40.84,Zydus Pharmaceuticals (USA) Inc.
+349,550426183-X,Anticoagulant Citrate Phosphate Dextrose Adenine,45.9,161.43,Fenwal Inc.
+350,189396475-2,Doxylamine Succinate,62.63,34.18,Chattem Inc.
+351,360403396-9,White Petrolatum,73.85,284.71,Family Dollar Services Inc
+352,853740943-X,Ceftriaxone,61.08,166.74,West-Ward Pharmaceutical Corp
+353,112929685-7,Venlafaxine Hydrochloride,25.76,179.96,REMEDYREPACK INC.
+354,173534879-1,Sodium Fluoride,55.73,126.96,Sancilio & Company Inc
+355,178960823-6,Coagulation Factor VIIa (Recombinant),40.88,190.64,Novo Nordisk
+356,992511213-3,Ibuprofen,20.25,142.96,Chain Drug Marketing Association Inc.
+357,783403543-6,Clopidogrel,34,9.37,Bryant Ranch Prepack
+358,152196086-0,English Plantain,76.62,88.79,ALK-Abello Inc.
+359,915918918-5,armodafinil,88.91,37.72,Lake Erie Medical DBA Quality Care Products LLC
+360,667118876-9,LEVOTHYROXINE- LIOTHYRONINE,90.66,15.38,AvKARE Inc.
+361,865220045-9,Cultivated Rye,17.68,117.32,Nelco Laboratories Inc.
+362,327012063-X,Salicylic Acid,25.69,175.32,Isomers Laboratories Inc
+363,553260779-6,ONDANSETRON HYDROCHLORIDE,35.87,133.12,Fresenius Kabi USA LLC
+364,976119277-6,Glyburide and Metformin Hydrochloride,18.35,296.45,Citron Pharma LLC
+365,327115294-2,Ensulizole- Octinoxate- Octisalate- Oxybenzone- and Titanium dioxide,51.07,54.61,Ventura Corporation Ltd.
+366,754686277-9,Garrys Oak,66.78,62.83,Antigen Laboratories Inc.
+367,532158669-1,Oxygen,67.79,285.82,AGL Inhalation Therapy Co.
+368,593128622-5,Lorazepam,75.33,273.69,Actavis Elizabeth LLC
+369,861843636-4,Bupropion Hydrochloride,68.16,254,St Marys Medical Park Pharmacy
+370,206442603-5,Levothyroxine Sodium,84.83,289.66,PD-Rx Pharmaceuticals Inc.
+371,427006819-1,Avobenzone- Octisalate- Octocrylene,60.31,130.14,BCM Ltd
+372,823445503-6,Aluminum Hydroxide- Magnesium Hydroxide-Simethicone,8.57,183.54,Novartis Consumer Health Inc
+373,555869421-1,ACETYLCYSTEINE - BALLOTA FOETIDA - EPINEPHRINE - GLUTATHIONE - INTERFERON GAMMA-1B - LENOGRASTIM - ,34.19,182.84,Guna spa
+374,958562125-8,AVOBENZONE- HOMOSALATE- OCTOCRYLENE,3.42,289.73,Laboratoires Clarins S.A
+375,437759328-5,Avobenzone- Homosalate- Octisalate- Octocrylene- and Oxybenzone,59.02,81.08,Neutrogena Corporation
+376,687022216-9,repaglinide and metformin hydrochloride,62.2,284.93,Novo Nordisk
+377,037809073-9,Oxygen,58.96,280.08,Wagner Welding Supply
+378,600896005-X,OTC SKIN PROTECTANT DRUG PRODUCTS,1.42,35.7,Dermarite Industries LLC
+379,144700972-X,Bethanechol Chloride,19.77,292.81,Major Pharmaceuticals
+380,609594155-5,Finasteride,78.32,224.96,Greenstone LLC
+381,354861236-9,ALCOHOL,9.81,153.79,GOJO Industries Inc.
+382,279354377-2,Oxygen-Helium Mixture,36.39,31.78,Roberts Oxygen Company Inc.
+383,538673001-0,Clotrimazole,97.11,12.83,Kroger Company
+384,468387491-1,Hydroxyzine Hydrochloride,65.73,54.06,American Regent Inc.
+385,187545441-1,HYDROCORTISONE,15.94,256.71,NeoPharm Co. Ltd.
+386,918159118-7,Cephalexin,31.42,33.43,Physicians Total Care Inc.
+387,981042124-9,Sodium Ferric Gluconate Complex,91.6,91.43,Watson Laboratories Inc.
+388,765630258-1,Antihemophilic Factor- Human Recombinant,50.15,82.23,Baxter Healthcare Corporation
+389,445055114-1,Oxygen,81.87,63.08,Jayco Industrial Supply Inc
+390,711285920-4,Aluminum Chlorohydrate,58.83,138.09,VVF Kansas Services LLC
+391,427691214-8,Oak White,42.78,208.72,ALK-Abello Inc.
+392,297594259-1,Neostigmine Methylsulfate,20.67,297.85,West-ward Pharmaceutical Corp.
+393,992305075-0,Phenol,31.21,173.6,Family Dollar
+394,563806900-3,Atropine Sulfate,61.99,186.26,Bausch & Lomb Incorporated
+395,474562403-4,Halobetasol,53.55,202.28,Innocutis Holdings LLC
+396,704785560-2,Bisacodyl,85.03,19.35,CVS Pharmacy
+397,068844191-2,Famotidine,82.57,145.73,McKesson
+398,925806020-2,Metoprolol Tartrate,67.64,19.31,REMEDYREPACK INC.
+399,803762645-8,Acetaminophen- Dextromethorphan HBr- Guaifenesin- Phenylephrine HCl,48.11,194.04,L. Perrigo Company
+400,198767687-4,Sertraline,76.09,30.01,Proficient Rx LP
+401,909611324-1,Losartan Potassium and Hydrochlorothiazide,68.94,128.44,Aurobindo Pharma Limited
+402,570512239-X,Alumina- Aralia quinquefolia- Arg. nit.- Arnica- Arsenicum alb.- Baptisia-,61.8,173.06,Newton Laboratories Inc.
+403,961775121-6,Dimenhydrinate,88.18,120.04,A-S Medication Solutions LLC
+404,541730037-3,Ranitidine,60.06,226.53,BJWC
+405,186121332-8,MIDAZOLAM HYDROCHLORIDE,33.62,248.09,The Medicines Company
+406,520680952-7,Methocarbamol,85.39,166.5,Golden State Medical Supply Inc.
+407,018258499-2,Spironolactone,27.38,277.44,Amneal Pharmaceuticals LLC
+408,461829205-9,Allergenic Extracts Alum Precipitated,52.03,165.08,ALK-Abello Inc.
+409,388894808-8,OCTINOXATE and OXYBENZONE,63.5,257.84,Guthy-Renker LLC
+410,486956610-9,Ibuprofen,91.37,40.93,Unifirst First Aid Corporation
+411,270591747-0,Benzocaine 20%,47.22,197.91,Church Dwight Co. Inc.
+412,043432643-7,ALUMINUM CHLOROHYDRATE,22.54,215.73,PSS World Medical
+413,994423646-2,ibuprofen,30.27,110.52,Pfizer Consumer Healthcare
+414,223383769-X,CALENDULA OFFICINALIS FLOWER,59.32,43.08,Hylands
+415,326584421-8,Pyrite 8,31.04,116.11,Uriel Pharmacy Inc.
+416,221368946-6,Influenzinum- Pyrogenium- Anthracinum-Arnica- Belladonna- Cantharis- Aconitum nap.- Arsenicum alb.- Baptisia,31.22,33.5,Newton Laboratories Inc.
+417,971245603-X,OCTREOTIDE ACETATE,80.3,157.85,Fresenius Kabi USA LLC
+418,553220487-X,Fluorouracil,1.17,64.02,Valeant Pharmaceuticals North America LLC
+419,911430781-2,Bicalutamide,62.28,3.45,Golden State Medical Supply Inc.
+420,948523785-5,SIMETHICONE,14.14,287.17,BJWC (Berkley & Jensen / BJs)
+421,716632981-5,Buspirone Hydrochloride,97.61,263.85,NCS HealthCare of KY Inc dba Vangard Labs
+422,442037231-1,Longleaf Pine,41.51,37.96,Nelco Laboratories Inc.
+423,163271182-6,Aloe socotrina- Arsenicum album- Bryonia- Collinsonia canadensis- Colocynthis,3.11,194.43,Nova Homeopathic Therapeutics Inc.
+424,490227870-7,Acetaminophen- Dextromethorphan Hydrobromide- Phenylephrine Hydrochloride,38.34,64.68,Marc Glassman Inc.
+425,254461264-9,TRICLOSAN,87.98,200.51,ABC Compounding Co. Inc.
+426,663223203-5,Entacapone,45.61,32.45,Sandoz Inc
+427,025130275-X,Dextromethorphan Hydrobromide- Doxylamine Succinate,84.06,140.77,Dolgencorp LLC
+428,166338775-3,Cotton Linters,22.51,19.92,ALK-Abello Inc.
+429,732899983-7,Oxcarbazepine,74.24,271.39,Taro Pharmaceuticals U.S.A. Inc.
+430,555681890-8,acetaminophen- dextromethorphan HBr- doxylamine succinate- phenylephrine HCl,67.13,101.31,Walgreen Company
+431,148657894-2,Metoprolol tartrate,2.86,6.61,Clinical Solutions Wholesale
+432,492881710-9,Labetalol hydrochloride,60.6,293.58,Golden State Medical Supply Inc.
+433,876892799-1,Betonica Rosmarinus,83.12,73.55,Uriel Pharmacy Inc.
+434,665938356-5,VALACYCLOVIR HYDROCHLORIDE,63.51,14.16,American Health Packaging
+435,259833140-0,Propranolol Hydrochloride,27.15,138.36,Cardinal Health
+436,485184687-8,Ibuprofen,79.22,45.08,McKesson
+437,393123559-9,clobetasol propionate,21.72,158.51,PharmaDerm A division of Fougera Pharmaceuticals Inc.
+438,359550657-X,ibuprofen,49.09,180.84,REMEDYREPACK INC.
+439,476928488-8,Tramadol Hydrochloride,20.53,173.96,Teva Pharmaceuticals USA Inc
+440,026458260-8,Avobenzone- homosalate- octisalate- octocrylene- and oxybenzone,59.27,0.64,MSD Consumer Care Inc.
+441,046302091-X,Avobenzone- Homosalate- Octisalate- Octocrylene- Oxybenzone,56.07,93.96,Bath & Body Works Inc.
+442,472590696-4,Baptisia Tinctoria- Echinacea- Phytolacca Decandra- Aconitum Napellus- Arsenicum Album- Belladonna,56.34,44.56,Dr. Elena M. Morreale Chiropractic Life Center
+443,193501389-0,Doxycycline,49.64,199.34,Actavis Pharma Inc.
+444,482568795-4,AVOBENZONE- HOMOSALATE- OCTINOXATE- OCTISALATE- OCTOCRYLENE,95.21,4.62,La Prairie Inc.
+445,110904419-4,METOPROLOL SUCCINATE,98.19,54.01,St Marys Medical Park Pharmacy
+446,025163955-X,Dimethicone,80.16,246.78,Walgreens
+447,944854461-8,avobenzone- homosalate- octisalate- octocrylene,55.7,211.83,Sun & Skin Care Research LLC
+448,789073539-1,levofloxacin,52.18,175.33,Vistakon Pharmaceuticals LLC
+449,632457897-6,DEXTROSE- SODIUM CHLORIDE- and POTASSIUM CHLORIDE,75.78,198.84,B. Braun Medical Inc.
+450,718422358-6,Oxybutynin Chloride,42.15,258.69,Kremers Urban Pharmaceuticals Inc.
+451,402565794-5,Citalopram Hydrobromide,85.87,14.55,REMEDYREPACK INC.
+452,239547673-0,Corn Grain,92.87,28.93,Nelco Laboratories Inc.
+453,219249054-2,BUPIVACAINE HYDROCHLORIDE,42.15,287.72,REMEDYREPACK INC.
+454,553660299-3,BENZTROPINE MESYLATE,88.85,20.25,Rising Pharmaceuticals Inc
+455,869517032-2,CHLOROXYLENOL,0.82,78.73,Amerifoods Trading Company
+456,032332393-6,clopidogrel bisulfate,70.54,63.23,Apotex Corp.
+457,316007358-0,methylprednisolone sodium succinate,8.31,185.12,Cardinal Health
+458,175743706-1,CYPROHEPTADINE,85.65,25.39,Pharmaceutical Associates Inc.
+459,719243527-9,Ceftriaxone Sodium,36.15,107.28,REMEDYREPACK INC.
+460,323612248-X,OCTINOXATE- TITANIUM DIOXIDE,82.26,84.13,Guerlain S.A.
+461,345520582-8,PAMIDRONATE DISODIUM,83.63,213.22,Hospira Worldwide Inc.
+462,663794551-X,Bufo rana- Apis mel.- Asterias rubens- Belladonna- Bryonia- Calc. carb.,0.68,20.29,Newton Laboratories Inc.
+463,667369771-7,clotrimazole,18.19,278.97,Premier Value
+464,921392089-X,Gabapentin,89.1,192.41,Hikma Pharmaceutical
+465,688182734-2,PYRITHIONE ZINE,23.14,276.35,SUPERVALU INC
+466,397036378-0,Sertraline Hydrochloride,47.84,89.64,Legacy Pharmaceutical Packaging
+467,185494958-6,White Mulberry,50.03,289.77,Nelco Laboratories Inc.
+468,130381132-4,Olanzapine,35.15,252.92,TYA Pharmaceuticals
+469,176589305-4,Lisinopril,71.5,2.89,REMEDYREPACK INC.
+470,039079558-5,Diphenhydramine Hydrochloride,63.76,39.44,Nash-Finch Company
+471,172044580-X,Bacitracin Zinc,56.47,65.66,H.J. Harkins Company Inc.
+472,212619135-4,BENZALKONIUM CHLORIDE,52.26,117.9,Humphreyline
+473,703856116-2,Fluorouracil,89.87,23.98,Taro Pharmaceuticals U.S.A. Inc.
+474,061071896-7,clozapine,44.62,167.85,TYA Pharmaceuticals
+475,948585121-9,Octinoxate and Titanium dioxide,61.95,193.76,SHISEIDO CO. LTD.
+476,174458550-4,Russian Thistle,64.9,213.16,Nelco Laboratories Inc.
+477,710302194-5,Meloxicam,1.69,136.82,REMEDYREPACK INC.
+478,855359872-1,Theophylline,53.88,146.64,Tris Pharma Inc
+479,368095198-1,Niacinamide- Adenosine,23.85,56.34,Carver Korea Co.Ltd
+480,953146344-1,captopril,96.92,278.98,Mylan Pharmaceuticals Inc.
+481,744989829-2,Lorazepam,82.32,23.93,Rebel Distributors Corp
+482,107079805-3,Clotrimazole,1.8,65.17,UPC Medical Supplies Inc.
+483,598514775-4,oxymetazoline hydrochloride,69.53,233.56,7-Eleven
+484,867970530-6,BROMPHENIRAMINE MALEATE- DEXTROMETHORPHAN ,29.52,131.64,Advanced Generic Corporation
+485,718085713-0,Aluminum Zirconium Trichlorohydrex Gly,60.34,72.86,Procter & Gamble Manufacturing Company
+486,355985589-6,Promethazine Hydrochloride,2.62,55.48,PD-Rx Pharmaceuticals Inc.
+487,419787721-8,Rock rose-,49.36,194.1,Apotheca Company
+488,787137320-X,TITANIUM DIOXIDE,8.81,94.07,ZION SYNTHETIC FIBER CO. LTD.
+489,297966938-5,Divalproex Sodium,56.92,161.99,Contract Pharmacy Services-PA
+490,898522989-3,Salicylic Acid,27.09,254.13,Autumn Harp Inc.
+491,631064097-6,Lidocaine,72.46,223.46,Aidarex Pharmaceuticals LLC
+492,107720353-5,Nitrogen,46.5,178.57,Big Branch Breeders Service
+493,815991349-4,Aurum metallicum- Aurum muriaticum natronatum- Baryta ,8.79,75.83,King Bio Inc.
+494,630249205-X,OCTINOXATE- TITANIUM DIOXIDE,4.3,215.57,Parfums Christian Dior
+495,380030687-5,CALCIUM FLUORIDE,56.34,168.36,Hylands
+496,862597895-9,Isopropyl Alcohol,25.46,13.45,Shield Line LLC
+497,943130429-5,Nicotine Polacrilex,23.21,124.63,Amerisource Bergen
+498,345434151-5,olmesartan medoxomil,27.36,0.6,Physicians Total Care Inc.
+499,110225972-1,mycophenilic acid,99.59,281.6,Mylan Institutional Inc.
+500,002205904-0,Risperidone,54.82,167.57,Tris Pharma Inc
